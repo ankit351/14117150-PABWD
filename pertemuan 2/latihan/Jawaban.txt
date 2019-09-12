@@ -1,0 +1,18 @@
+Jawaban soal 1.5
+1. Tidak terjadi error , tetapi jika kodenya diubah maka tag nya tidak berfungsi sebagaimana fungsinya.
+2. Meta dokumen digunakan untuk memberikan gambaran umum mengenai isi dari halaman web
+   Meta dokumen ini biasanya digunakan untuk search engine optimization (SEO)
+   Ketika saya  menggunakan meta dokumen <meta HTTP-EQUIV="REFRESH"
+   content="5; url=http://google.co.id"> , web akan me refresh ke halaman google.id
+3. kegunaan tag HTML pada table
+	thead
+	Elemen thead mewakili blok baris yang terdiri dari label kolom (header) untuk elemen tabel induk
+	tbody
+	Elemen tbody mewakili blok baris yang terdiri dari badan data untuk elemen tabel induk,
+	 jika elemen tbody memiliki induk dan itu adalah tabel
+	tr
+	elemen tr digunakan untuk merepresentasikan deretan sel dalam tabel
+	th
+	elemen th digunakan untuk merepresentasikan sel header dalam tabel
+	td
+	elemen td merepresentasikan sel data dalam tabel
