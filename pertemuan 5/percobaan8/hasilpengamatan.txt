@@ -1,0 +1,1 @@
+Hasil pengamatan saya terhadap file list.css yakni terdapat 5 selector yang merepresentasikan bg color terhadap 5  warna yang di deklarasikan

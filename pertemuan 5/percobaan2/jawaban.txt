@@ -1,0 +1,3 @@
+Nested property adalah sebuah prefix seperti font-family, font-size
+text-align dan lain-lain yang dapat digunakan di dalam sass dan bisa dicompile ke
+css.
