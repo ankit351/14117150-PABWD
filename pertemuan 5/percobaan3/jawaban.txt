@@ -1,0 +1,3 @@
+di dalam sass kita dapat menyimpan informasi dalam bentuk variabel
+seperti pada modul
+$teks-putih: white artinya color  white disimpan dalam variabel $teks-putih

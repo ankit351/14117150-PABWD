@@ -1,0 +1,4 @@
+Hasil yang terjadi setelah saya amati dari operator.scss dicompile 
+ke operator.css yakni pada width scss dapat melakukan operasi matematika
+ketika dicompile sehingga pada file css hasilnya tidak ada lagi operasi
+ matematika contohnya seperti pembagian.
